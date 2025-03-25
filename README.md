@@ -1,6 +1,8 @@
 # Preparing Microsoft Azure Certificate 
 
-Summarizes what I've used to prepare the Microsoft Azure certificate
+Summarizes what I've used to prepare the Microsoft Azure certificate.
+
+## Videos
 
 [AZ-900 Azure Fundamentals Certificate from John Savill's Technical Training Youtube Channel](https://www.youtube.com/watch?v=pY0LnKiDwRA&list=PLlVtbbG169nED0_vMEniWBQjSoxTsBYS3&index=2)
 
